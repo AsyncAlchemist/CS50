@@ -1,5 +1,7 @@
 list = {}
 
+print ("New version")
+
 while True:
     try:
         user_input = input("Item: ").upper()
